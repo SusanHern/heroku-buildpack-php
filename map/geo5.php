@@ -138,8 +138,8 @@ $.ajax({
   jsonp: 'jsoncallback',
   data: {
     searchtext: document.pform.ginput.value,
-    app_id: 'I9Y4iDApiDnRYg4Bcfyx',
-    app_code: '8DVGvwPLV6UgKJWVU5-p3A',
+    app_id: '',
+    app_code: '',
     gen: '8'
   },
   success: function (data) {
